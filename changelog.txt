@@ -1,0 +1,7 @@
+Version 1.1.0
+
+- Added mod compatibility with LunaLib and uploaded the mod to github public wise.
+
+Version 1.0.0
+
+-> First version of the mod created!
