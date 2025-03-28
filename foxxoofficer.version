@@ -5,7 +5,7 @@
   {
     "major":1,
     "minor":1,
-    "patch":0,
+    "patch":1,
   },
   "directDownloadURL": "https://github.com/FoxxoTrystan/foxxoofficer/releases/latest/download/foxxoofficer.zip",
   "changelogURL":"https://raw.githubusercontent.com/FoxxoTrystan/foxxoofficer/main/changelog.txt",
