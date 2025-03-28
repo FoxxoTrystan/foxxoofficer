@@ -1,3 +1,7 @@
+Version 1.1.1
+
+- Updated mod for game version 0.98a-RC04.
+
 Version 1.1.0
 
 - Added mod compatibility with LunaLib and uploaded the mod to github public wise.
