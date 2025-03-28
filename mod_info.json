@@ -2,9 +2,9 @@
     "id": "foxxoofficer",
     "name": "FoxxoOfficer",
     "author": "FoxxoTrystan",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "",
-    "gameVersion": "0.97a-RC11",
+    "gameVersion": "0.98a-RC04",
     "jars":["jars/foxxo.jar"],
     "dependencies": [
         {"id": "MagicLib", "name": "MagicLib"}
